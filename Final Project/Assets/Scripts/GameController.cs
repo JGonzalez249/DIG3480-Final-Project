@@ -36,7 +36,7 @@ public class GameController : MonoBehaviour
     public AudioClip musicClipOne;
     public AudioClip musicClipTwo;
 
-
+    //Reference PlayerController script
     private PlayerController playerController;
 
     void Start()
